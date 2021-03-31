@@ -1,2 +1,2 @@
 # RetoRecetas
-Reto 1 Curso Kotlin
+Curso Git_GitHub
